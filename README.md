@@ -5,8 +5,8 @@
 - https://github.com/rpautrat/SuperPoint
 ### SuperGlue
 - https://arxiv.org/pdf/1911.11763
-- (infer)https://github.com/magicleap/SuperGluePretrainedNetwork
-- (train)https://github.com/yingxin-jia/SuperGlue-pytorch
+- (Infer)https://github.com/magicleap/SuperGluePretrainedNetwork
+- (Train)https://github.com/yingxin-jia/SuperGlue-pytorch
 ### LightGlue
 - https://arxiv.org/pdf/2306.13643
 - https://github.com/cvg/LightGlue
