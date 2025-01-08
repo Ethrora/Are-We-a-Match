@@ -7,7 +7,8 @@
 ### SuperGlue
 - https://arxiv.org/pdf/1911.11763
 - (Infer)https://github.com/magicleap/SuperGluePretrainedNetwork
-- (Train)https://github.com/yingxin-jia/SuperGlue-pytorch
+- (Train1)https://github.com/yingxin-jia/SuperGlue-pytorch
+- (Train2)https://github.com/gouthamvgk/SuperGlue_training
 ### LightGlue
 - https://arxiv.org/pdf/2306.13643
 - https://github.com/cvg/LightGlue
