@@ -4,6 +4,9 @@
 - ScanNet：http://www.scan-net.org/
 - PhotoTourism：https://phototour.cs.washington.edu/
 - YFCC100M：https://drive.google.com/drive/folders/1qbnrDSXJhnXC0MiZNNqW7vezAHlkBNgo
+- HPatches(Homography-patches 数据集) : https://github.com/hpatches/hpatches-dataset
+- MegaDepth-1500 test set : https://github.com/zju3dv/LoFTR
+- COLMAP:  https://github.com/zju3dv/LoFTR
 ## Method
 ### OANet
 - https://arxiv.org/pdf/1908.04964
