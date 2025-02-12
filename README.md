@@ -8,20 +8,23 @@
 - MegaDepth-1500 test set : https://github.com/zju3dv/LoFTR
 - COLMAP:  https://github.com/zju3dv/LoFTR
 ## Method
-### OANet
+### Filter
+#### OANet
 - https://arxiv.org/pdf/1908.04964
 - https://github.com/zjhthu/OANet
-### SuperPoint
+### End-to-end
+#### SuperPoint
 - https://arxiv.org/pdf/1712.07629
 - https://github.com/rpautrat/SuperPoint
-### SuperGlue
+#### SuperGlue
 - https://arxiv.org/pdf/1911.11763
 - (Infer)https://github.com/magicleap/SuperGluePretrainedNetwork
 - (Train1)https://github.com/yingxin-jia/SuperGlue-pytorch
 - (Train2)https://github.com/gouthamvgk/SuperGlue_training
-### LightGlue
+#### LightGlue
 - https://arxiv.org/pdf/2306.13643
 - https://github.com/cvg/LightGlue
+### Others
 ### GIM
 - https://arxiv.org/pdf/2402.11095
 - https://github.com/xuelunshen/gim
