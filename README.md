@@ -4,13 +4,23 @@
 - ScanNet：http://www.scan-net.org/
 - PhotoTourism：https://phototour.cs.washington.edu/
 - YFCC100M：https://drive.google.com/drive/folders/1qbnrDSXJhnXC0MiZNNqW7vezAHlkBNgo
+- SUN3D：
 - HPatches(Homography-patches 数据集) : https://github.com/hpatches/hpatches-dataset
 - MegaDepth-1500 test set : https://github.com/zju3dv/LoFTR
 - COLMAP:  https://github.com/zju3dv/LoFTR
 ## Filter
+### PointCN
+- https://arxiv.org/pdf/1711.05971
 ### OANet
 - https://arxiv.org/pdf/1908.04964
 - https://github.com/zjhthu/OANet
+### CLNet
+- https://arxiv.org/pdf/2101.00591
+- https://github.com/sailor-z/CLNet
+### NCMNet
+
+### LoFTR
+- https://arxiv.org/pdf/2104.00680
 ## End-to-end
 ### SuperPoint
 - https://arxiv.org/pdf/1712.07629
