@@ -34,6 +34,12 @@
 ### LightGlue
 - https://arxiv.org/pdf/2306.13643
 - https://github.com/cvg/LightGlue
+### LF-Net
+- https://arxiv.org/abs/1805.09662
+- https://github.com/vcg-uvic/lf-net-release?tab=readme-ov-file
+### D2-Net
+- https://arxiv.org/abs/1905.03561
+- https://github.com/mihaidusmanu/d2-net?tab=readme-ov-file
 ## Others
 ### GIM
 - https://arxiv.org/pdf/2402.11095
