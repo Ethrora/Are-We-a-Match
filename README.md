@@ -1,15 +1,16 @@
 # Are-We-a-Match
 ## Dataset
+#### 室外
 - Oxford and Paris：https://cmp.felk.cvut.cz/revisitop/
-- ScanNet：http://www.scan-net.org/
 - PhotoTourism：https://phototour.cs.washington.edu/
-- YFCC100M：https://drive.google.com/drive/folders/1qbnrDSXJhnXC0MiZNNqW7vezAHlkBNgo
 - SUN3D：
-- HPatches(Homography-patches 数据集) : https://github.com/hpatches/hpatches-dataset
-- MegaDepth-1500 test set : https://github.com/zju3dv/LoFTR
-- COLMAP:  https://github.com/zju3dv/LoFTR
+- MegaDepth: https://www.cs.cornell.edu/projects/megadepth/
 - Brown: https://phototour.cs.washington.edu/patches/default.htm
-- ...
+#### 室内
+- ScanNet：http://www.scan-net.org/
+#### ALL
+- YFCC100M：https://drive.google.com/drive/folders/1qbnrDSXJhnXC0MiZNNqW7vezAHlkBNgo
+- HPatches(Homography-patches 数据集) : https://github.com/hpatches/hpatches-dataset
 ## Filter
 ### PointCN
 - https://arxiv.org/pdf/1711.05971
