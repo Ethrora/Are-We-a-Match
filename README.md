@@ -42,6 +42,8 @@
 ### D2-Net
 - https://arxiv.org/abs/1905.03561
 - https://github.com/mihaidusmanu/d2-net?tab=readme-ov-file
+### R2D2
+- https://github.com/naver/r2d2
 ## Others
 ### GIM
 - https://arxiv.org/pdf/2402.11095
