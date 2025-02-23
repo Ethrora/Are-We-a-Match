@@ -48,6 +48,6 @@
 ### GIM
 - https://arxiv.org/pdf/2402.11095
 - https://github.com/xuelunshen/gim
-## Result
+## Result(待整理)
 ![image](https://github.com/user-attachments/assets/705afc0b-b3c7-4758-907e-4360f1a47d9a)
 
