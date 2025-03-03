@@ -49,6 +49,10 @@
 ### LoFTR
 - https://arxiv.org/pdf/2104.00680
 - https://github.com/zju3dv/LoFTR
+### matchformer
+- https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_MatchFormer_Interleaving_Attention_in_Transformers_for_Feature_Matching_ACCV_2022_paper.pdf
+- https://github.com/jamycheung/MatchFormer
+
 ## Others
 ### GIM
 - https://arxiv.org/pdf/2402.11095
@@ -61,6 +65,7 @@
   <img src="https://github.com/user-attachments/assets/755e13d2-0fe9-4990-9ddd-f8233c01fd87" alt="image3" style="height: 200px; width: auto;">
   <img src="https://github.com/user-attachments/assets/cd2a8880-2927-44c0-90a2-782b7101e166" alt="image4" style="height: 200px; width: auto;">
 </div>
+
 ### LoFTR
 ![image](https://github.com/user-attachments/assets/eba904c6-a6f0-45d8-a696-716a9c162837)
 ![image](https://github.com/user-attachments/assets/8a4a3c3c-5c07-4cca-9a83-98558ea68b90)
