@@ -37,6 +37,9 @@
 ### LightGlue
 - https://arxiv.org/pdf/2306.13643
 - https://github.com/cvg/LightGlue
+### OmniGlue
+- https://arxiv.org/pdf/2405.12979
+- https://github.com/google-research/omniglue
 ### LF-Net
 - https://arxiv.org/abs/1805.09662
 - https://github.com/vcg-uvic/lf-net-release?tab=readme-ov-file
@@ -52,6 +55,12 @@
 ### matchformer
 - https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_MatchFormer_Interleaving_Attention_in_Transformers_for_Feature_Matching_ACCV_2022_paper.pdf
 - https://github.com/jamycheung/MatchFormer
+### DKM
+- https://openaccess.thecvf.com/content/CVPR2023/papers/Edstedt_DKM_Dense_Kernelized_Feature_Matching_for_Geometry_Estimation_CVPR_2023_paper.pdf
+- https://github.com/Parskatt/dkm
+### RoMa
+- https://arxiv.org/pdf/2305.15404
+- https://github.com/Parskatt/RoMa
 
 ## Others
 ### GIM
