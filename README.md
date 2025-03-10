@@ -66,6 +66,9 @@
 ### GIM
 - https://arxiv.org/pdf/2402.11095
 - https://github.com/xuelunshen/gim
+### Local Feature Matching Using Deep Learning: A Survey
+- https://arxiv.org/pdf/2401.17592
+- https://github.com/vignywang/Awesome-Local-Feature-Matching?tab=readme-ov-file
 ## Results(待整理)
 ### SuperGlue
 <div style="display: flex; justify-content: space-between; align-items: center;">
