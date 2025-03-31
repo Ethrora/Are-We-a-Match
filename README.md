@@ -11,7 +11,8 @@
 #### ALL
 - YFCC100M：https://drive.google.com/drive/folders/1qbnrDSXJhnXC0MiZNNqW7vezAHlkBNgo
 - HPatches(Homography-patches 数据集) : https://github.com/hpatches/hpatches-dataset
-## Filter
+
+## w detector
 ### PointCN
 - https://arxiv.org/pdf/1711.05971
 - Context Normalization
@@ -21,10 +22,6 @@
 ### CLNet
 - https://arxiv.org/pdf/2101.00591
 - https://github.com/sailor-z/CLNet
-### NCMNet
-
-
-## End-to-end(feature)
 ### SuperPoint
 - https://arxiv.org/pdf/1712.07629
 - https://github.com/rpautrat/SuperPoint
@@ -33,10 +30,12 @@
 - (Infer)https://github.com/magicleap/SuperGluePretrainedNetwork
 - (Train1)https://github.com/yingxin-jia/SuperGlue-pytorch
 - (Train2)https://github.com/gouthamvgk/SuperGlue_training
-- 基于重叠分数选择训练对
 ### LightGlue
 - https://arxiv.org/pdf/2306.13643
 - https://github.com/cvg/LightGlue
+
+
+## w/o detector
 ### OmniGlue
 - https://arxiv.org/pdf/2405.12979
 - https://github.com/google-research/omniglue
@@ -48,11 +47,10 @@
 - https://github.com/mihaidusmanu/d2-net?tab=readme-ov-file
 ### R2D2
 - https://github.com/naver/r2d2
-## End-to-end(picture)
 ### LoFTR
 - https://arxiv.org/pdf/2104.00680
 - https://github.com/zju3dv/LoFTR
-### matchformer
+### MatchFormer
 - https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_MatchFormer_Interleaving_Attention_in_Transformers_for_Feature_Matching_ACCV_2022_paper.pdf
 - https://github.com/jamycheung/MatchFormer
 ### DKM
@@ -61,6 +59,18 @@
 ### RoMa
 - https://arxiv.org/pdf/2305.15404
 - https://github.com/Parskatt/RoMa
+### Quadtree
+- https://arxiv.org/pdf/2201.02767
+- https://github.com/Tangshitao/QuadtreeAttention
+### CasMTR
+- https://arxiv.org/pdf/2303.02885
+- https://github.com/ewrfcas/CasMTR
+### PMatch
+- https://arxiv.org/pdf/2303.17342
+- None
+### JamMa
+- https://arxiv.org/pdf/2503.03437v1
+- https://github.com/leoluxxx/JamMa
 
 ## Others
 ### GIM
@@ -69,18 +79,6 @@
 ### Local Feature Matching Using Deep Learning: A Survey
 - https://arxiv.org/pdf/2401.17592
 - https://github.com/vignywang/Awesome-Local-Feature-Matching?tab=readme-ov-file
-## Results(待整理)
-### SuperGlue
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/705afc0b-b3c7-4758-907e-4360f1a47d9a" alt="image1" style="height: 200px; width: auto;">
-  <img src="https://github.com/user-attachments/assets/765bffb6-9892-40d8-8d6c-cdcdb4a1722a" alt="image2" style="height: 200px; width: auto;">
-  <img src="https://github.com/user-attachments/assets/755e13d2-0fe9-4990-9ddd-f8233c01fd87" alt="image3" style="height: 200px; width: auto;">
-  <img src="https://github.com/user-attachments/assets/cd2a8880-2927-44c0-90a2-782b7101e166" alt="image4" style="height: 200px; width: auto;">
-</div>
-
-### LoFTR
-![image](https://github.com/user-attachments/assets/eba904c6-a6f0-45d8-a696-716a9c162837)
-![image](https://github.com/user-attachments/assets/8a4a3c3c-5c07-4cca-9a83-98558ea68b90)
 
 
 
