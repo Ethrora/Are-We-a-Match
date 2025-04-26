@@ -72,6 +72,20 @@
 - https://arxiv.org/pdf/2503.03437v1
 - https://github.com/leoluxxx/JamMa
 
+## 预处理
+### SAM
+- https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf
+### SGAM
+- https://arxiv.org/pdf/2305.00194
+### MESA
+- https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MESA_Matching_Everything_by_Segmenting_Anything_CVPR_2024_paper.pdf
+### MASA
+- https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Matching_Anything_by_Segmenting_Anything_CVPR_2024_paper.pdf
+### OETR
+- https://ojs.aaai.org/index.php/AAAI/article/download/19913/19672
+
+
+
 ## Others
 ### GIM
 - https://arxiv.org/pdf/2402.11095
