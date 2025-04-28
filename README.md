@@ -81,8 +81,14 @@
 - https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MESA_Matching_Everything_by_Segmenting_Anything_CVPR_2024_paper.pdf
 ### MASA
 - https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Matching_Anything_by_Segmenting_Anything_CVPR_2024_paper.pdf
+### DETR
+- https://arxiv.org/pdf/2005.12872
+### FCOS
+- https://openaccess.thecvf.com/content_ICCV_2019/papers/Tian_FCOS_Fully_Convolutional_One-Stage_Object_Detection_ICCV_2019_paper.pdf
 ### OETR
 - https://ojs.aaai.org/index.php/AAAI/article/download/19913/19672
+### Leveraging Semantic Cues from Foundation  Vision Models for Enhanced Local  Feature Correspondence
+- https://openaccess.thecvf.com/content/ACCV2024/papers/Cadar_Leveraging_Semantic_Cues_from_Foundation_Vision_Models_for_Enhanced_Local_ACCV_2024_paper.pdf
 
 
 
